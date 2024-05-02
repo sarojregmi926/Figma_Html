@@ -7,8 +7,10 @@ https://www.youtube.com/watch?v=AAXYX4LH6Bc&ab_channel=CodewithSloba
 <<<<<<<<< Temporary merge branch 1
 
 Readme1
+Hello namaste 
 Readme2
 Readme3
+I am joras
 Readme4
 Readme5
 Readme6
