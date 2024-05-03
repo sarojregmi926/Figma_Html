@@ -5,6 +5,7 @@ function Footer() {
   return (
     <footer>
       <p>&copy; 2024 My Website. All rights reserved.</p>
+    <p>Dont copy and paste</p>
     </footer>
   );
 }
