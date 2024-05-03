@@ -6,6 +6,7 @@ function Footer() {
     <footer>
       <p>&copy; 2024 My Website. All rights reserved.</p>
       <p>Local change is here</p>
+      <p>This is test branch change</p>
     </footer>
   );
 }

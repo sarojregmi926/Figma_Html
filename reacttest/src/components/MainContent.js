@@ -12,6 +12,7 @@ function MainContent() {
       <p>Welcome to our website!2</p>
       <p>Welcome to our website!3</p>
       <p>Welcome to our website!4</p>
+      <p>This is test branch change</p>
     </main>
   );
 }
